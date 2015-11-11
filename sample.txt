@@ -5,3 +5,4 @@ Ovo je sa developmenta.
 Development after mrdžanja.
 
 From drugi computer, a sad from vim.
+After conflict
